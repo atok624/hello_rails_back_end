@@ -53,6 +53,10 @@ It is a simple web application demonstrating use of React with Rails.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Client App <a name="client-app"></a>
+
+Here is the link to the client app, you can see the source code on [Hello React Front-end](https://github.com/atok624/hello_react_front_end.git).
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
